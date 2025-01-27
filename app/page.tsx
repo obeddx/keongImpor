@@ -16,7 +16,7 @@ export default function Home() {
           </p>
           <div className="space-x-4">
             <button className="px-6 py-3 bg-blue-600 text-white font-semibold rounded-lg shadow-md hover:bg-blue-700 transition">
-              See Products
+              Product
             </button>
             <button className="px-6 py-3 bg-gray-200 text-gray-800 font-semibold rounded-lg shadow-md hover:bg-gray-300 transition">
               Pelajari Lebih Lanjut
